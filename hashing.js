@@ -43,7 +43,7 @@ function login(){
     }else{
         document.getElementById("welcome-msg").innerHTML = "Sorry! incorrect credentials";
     }
-    document.getElementById("form-div").style.backgroundColor =  "blue";
+    
 }
 
 
